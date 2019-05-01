@@ -1,0 +1,5 @@
+用mac使用Xcode搭建好OpenCV 环境后;
+有一个default.xml作为参考的镜头文件；
+注意新版本mac系统要给Products一个摄影头权限，因为目前是基于webcam的；
+按下g后，连续拍摄25张黑白棋盘格照片后，便可以按下u键看到标定完摄像头的结果了；
+本代码只适合新手，代码来自OpenCV sample；
